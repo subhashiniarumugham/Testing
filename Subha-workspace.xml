@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-workspace name="Subha" soapui-version="5.5.0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings/>
+  <con:project name="User management">C:/Users/subha/Documents/User-management-soapui-project.xml</con:project>
+  <con:project name="REST Project 1">C:/Users/subha/Documents/REST-Project-1-soapui-project (1).xml</con:project>
+  <con:collectInfoForSupport>false</con:collectInfoForSupport>
+</con:soapui-workspace>
